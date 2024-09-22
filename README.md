@@ -17,3 +17,7 @@ A Python application that allows you to control your computer mouse using hand g
 - NumPy
 - PyAutoGUI
 
+## Contributing
+
+Feel free to fork the repository and submit pull requests for improvements or bug fixes.
+
